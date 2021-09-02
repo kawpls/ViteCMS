@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: kawpls/ViteCMS
+  name: git-gateway
+  branch: master
 media_folder: "/Assets"
 public_folder: "/assets"
 collections:
