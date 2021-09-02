@@ -2,7 +2,7 @@
   "name": "vitecms",
   "version": "0.0.1",
   "scripts": {
-    "custom": "npm-run-all --parallel build copyfiles",
+    "custom": "npm-run-all --sequential build copyfiles",
     "build": "vite build",
     "copyfiles": "copyfiles ./admin/*.yml ./admin/*.html ./dist/admin/"
   },
