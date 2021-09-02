@@ -4,7 +4,7 @@
   "scripts": {
     "custom": "npm-run-all --sequential build copyfiles",
     "build": "vite build",
-    "copyfiles": "copyfiles ./admin/*.yml ./admin/*.html ./dist/admin/"
+    "copyfiles": "copyfiles ./admin/*.yml ./admin/*.html ./dist/"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.3",
