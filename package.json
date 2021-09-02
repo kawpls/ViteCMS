@@ -11,13 +11,12 @@
     "npm-run-all": "^4.1.5",
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.9",
-    "vite": "^2.5.2",
+    "vite": "^2.5.3",
     "vite-plugin-markdown": "^2.0.2"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "copyfiles": "^2.4.1",
-    "daisyui": "^1.14.0",
-    "netlify-cms-app": "^2.15.40"
+    "daisyui": "^1.14.0"
   }
 }
