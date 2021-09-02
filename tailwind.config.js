@@ -1,6 +1,11 @@
+const tailwindcss = require("tailwindcss");
+
 module.exports = {
   mode: "jit",
-  purge: ["./**/*.{html,js}"],
+  purge: {
+    enabled: true,
+    content: ["./*.html"],
+  },
 
   darkMode: false, // or 'media' or 'class'
   theme: {
@@ -9,5 +14,5 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [require("daisyui")],
+  plugins: [require("@tailwindcss/typography"), require("daisyui")],
 };
