@@ -2,10 +2,9 @@
   "name": "vitecms",
   "version": "0.0.1",
   "scripts": {
-    "dev": "vite",
+    "custom": "npm-run-all --parallel build copyfiles",
     "build": "vite build",
-    "serve": "vite preview",
-    "custom": "vite build & copyfiles ./admin/*.yml ./admin/*.html ./dist/admin/"
+    "copyfiles": "copyfiles ./admin/*.yml ./admin/*.html ./dist/admin/"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.3",
