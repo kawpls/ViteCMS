@@ -2,10 +2,12 @@
 title: ¿Quién soy?
 description: "Encontrándome "
 author: José Antonio González Torres
-date: 2021-08-15T22:19:00.000Z
+date: 2021-11-01T03:20:18.136Z
 tags:
   - from
 ---
+![Ugalde](/assets/img-20210415-wa0016.jpg "Manuel")
+
 It is not a disaster. It's not a disaster, alright? She's not going to the cops, she's not telling a living soul. You wanna know why? One word: blowback. If she blabs, it'll be a disaster - for her. That DEA brother-in-law? Screwed! You were right under his nose. He'll be lucky if they let him bust glue sniffers at the hobby shop. The kids? Paging Dr. Phil! 'My daddy's a drug dealer and my mommy turned him in!' And the house? Gone! The feds will come in and RICO her and the kids out on the street. Good luck arguing with them on that, noooo. It's not gonna happen. She's bluffing. And she knows it. 
 
 Hello. Welcome. What a pleasure it is to have you. Just gonna call you Skyler if that's okay. It's a lovely name. It reminds me of the big, beautful sky. Walter always told me how lucky he was, prior to recent unfortunate events. Clearly his taste in women is the same as his taste in lawyers: only the very best with just the right amount of dirty. 
