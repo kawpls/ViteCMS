@@ -7,11 +7,7 @@ tags:
   - from
 ---
 #### Jose Manuel Ugalde Borbolla
-
-29 Años 
-
+29 Años
 Puerto Vallarta, Jalisco
-
 (322)104-6562
-
 jmugaldeb@gmail.com
