@@ -6,4 +6,12 @@ date: 2022-05-08T22:25:14.841Z
 tags:
   - from
 ---
-![test](/assets/img-20210415-wa0016.jpg "test")
+#### Jose Manuel Ugalde Borbolla
+
+29 Años 
+
+Puerto Vallarta, Jalisco
+
+(322)104-6562
+
+jmugaldeb@gmail.com
