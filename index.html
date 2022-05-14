@@ -1,43 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="description" content="Blog" />
-    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
-    <link rel="stylesheet" href="./style.css" />
-    <script type="module">
-      import { attributes, html } from "./Posts/first.md";
-      var article = document.getElementById("article");
-      article.innerHTML = html;
-      var time = document.getElementById("time");
-      var date = new Date(attributes.date).toLocaleString();
-      time.innerText = date;
-      var author = document.getElementById("author");
-      author.innerText = attributes.author;
-      var title = document.getElementById("title");
-      title.innerText = attributes.title;
-    </script>
-    <script
-      type="text/javascript"
-      src="https://identity.netlify.com/v1/netlify-identity-widget.js"
-    ></script>
-  </head>
-  <body>
-    <div class="container mx-auto max-w-4xl mt-6 px-6">
-      <div class="pb-5 mb-5 border-b border-gray-100">
-        <h1 class="font-bold text-5xl mb-4" id="title"></h1>
-        <p class="text-right text-base leading-6 font-medium text-gray-500">
-          <time>
-            <span id="time"></span> by
-            <span id="author"></span>
-          </time>
-        </p>
-      </div>
-      <article class="prose lg:prose-xl my-4 mx-auto">
-        <span id="article"></span>
-      </article>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="description" content="Blog" />
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Markdown Portfolio</title>
+  <link rel="stylesheet" href="./style.css" />
+  <script type="module">
+    import { attributes, html } from "./Posts/first.md";
+    var article = document.getElementById("article");
+    article.innerHTML = html;
+    var time = document.getElementById("time");
+    var date = new Date(attributes.date).toLocaleString();
+    time.innerText = date;
+    var author = document.getElementById("author");
+    author.innerText = attributes.author;
+    var title = document.getElementById("title");
+    title.innerText = attributes.title;
+  </script>
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+
+<body>
+  <div class="container mx-auto max-w-4xl mt-6 px-6">
+    <div class="pb-5 mb-5 border-b border-gray-100">
+      <h1 class="font-bold text-5xl mb-4" id="title"></h1>
+      <p class="text-right text-base leading-6 font-medium text-gray-500">
+        <time>
+          <span id="time"></span> Por <span id="author"></span>
+        </time>
+      </p>
     </div>
-  </body>
+    <article id="article" class="prose lg:prose-xl my-4 mx-auto"></article>
+  </div>
+</body>
+
 </html>
