@@ -175,7 +175,7 @@ your preferred browser.
 127.0.0.1:8000
 ```
 
-!\[Hello test](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "Test")
+![Hello test](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "Test")
 
 ## License
 
