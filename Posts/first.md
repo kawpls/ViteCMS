@@ -169,23 +169,13 @@ docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger
 Verify the deployment by navigating to your server address in
 your preferred browser.
 
-
-<div class="card w-96 bg-base-100 shadow-xl">
-  <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
-  <div class="card-body">
-    <h2 class="card-title">Shoes!</h2>
-    <p>If a dog chews shoes whose shoes does he choose?</p>
-    <div class="card-actions justify-end">
-      <button class="btn btn-primary">Buy Now</button>
-    </div>
-  </div>
-</div>
-
-
+<img src="https://placeimg.com/400/225/arch" alt="Shoes" />
 
 ```sh
 127.0.0.1:8000
 ```
+
+!\[Hello test](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "Test")
 
 ## License
 
