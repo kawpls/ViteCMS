@@ -8,7 +8,7 @@ tags:
 ---
 # Dillinger
 
-![Spooky](/assets/img-20210415-wa0016.jpg "Spooky Image")
+![Spooky](https://raw.githubusercontent.com/kawpls/ViteCMS/master/Assets/img-20210415-wa0016.jpg "Spooky Image")
 
 ## *The Last Markdown Editor, Ever*
 
