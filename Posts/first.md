@@ -2,13 +2,13 @@
 title: Jose Manuel Ugalde Borbolla
 description: Curriculum
 author: José Manuel Ugalde Borbolla
-date: 2022-05-08T22:25:14.841Z
+date: 2022-10-22T16:20:46.079Z
 tags:
   - from
 ---
 # Dillinger
 
-![Spooky](https://images.pexels.com/photos/5422596/pexels-photo-5422596.jpeg?cs=srgb&dl=pexels-karolina-grabowska-5422596.jpg&fm=jpg "Spooky Image")
+![Spooky](/assets/img-20210415-wa0016.jpg "Spooky Image")
 
 ## *The Last Markdown Editor, Ever*
 
