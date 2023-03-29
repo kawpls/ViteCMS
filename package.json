@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build"
   },
-  "Dependencies": {
+  "dependencies": {
     "@tailwindcss/typography": "^0.5.9",
     "autoprefixer": "^10.4.14",
     "daisyui": "^2.51.5",
