@@ -1,5 +1,10 @@
-import plugin, { Mode } from "vite-plugin-markdown";
+import { defineConfig } from 'vite';
+import mdPlugin , {Mode} from 'vite-plugin-markdown';
 
-module.exports = {
-  plugins: [plugin({ mode: "html" })],
-};
+export default defineConfig({
+  plugins: [
+    mdPlugin({
+      mode: [Mode.HTML],
+    }),
+  ],
+});
