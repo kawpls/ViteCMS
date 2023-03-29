@@ -17,6 +17,6 @@
   "dependencies": {
     "@tailwindcss/typography": "^0.4.1",
     "copyfiles": "^2.4.1",
-    "daisyui": "^1.14.0"
+    "daisyui": "^2.51.5"
   }
 }
