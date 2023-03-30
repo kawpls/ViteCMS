@@ -4,107 +4,59 @@ description: CV - Jose Manuel Ugalde Borbolla
 author: José Manuel Ugalde Borbolla
 date: 2023-03-30T18:00:00.000Z
 ---
-## Software Developer
-
-* Email: [jmugaldeb@gmail.com](mailto:jmugaldeb@gmail.com)
-* Phone: (322) 104-6562
-* Location: Puerto Vallarta, Jalisco
-* GitHub: [Kawpls](https://github.com/Kawpls)
-* Twitter: [JMUB](https://twitter.com/JMUB)
-
-## Skills
-
-* **Relational Database:** MS-SQL, PostgreSQL, MYSQL, CockroachDB
-* **No SQL Database:** CosmosDB
-* **ASP.NET:** Razor Pages, Web API, Blazor, EF Core
-* **Frontend:** GraphQL, RestAPI, Tailwind, Bootstrap, Vite
-* **Azure:** Azure Functions, Azure AD, Blob Storage, Azure Static Websites
-* **Source Control CI/CD:** Github, Netlify, RailwayAPP, Vercel
-* **Programming Languages:** C#, Javascript, CSS, HTML, Python
-
-## Languages
-
-* English
-* Spanish
-
-## Professional Experience
-
-### Full-Stack Developer at Blunify
-
-#### Feb 2022 – present
-
-Puerto Vallarta, Mexico
-
-* Daily Scrum Meetings
-* Blazor Development
-* Web API
-* Azure IOT Edge Devices
-
-## Projects
-
-### DryCleanPV - Dashboard
-
-#### Apr 2022 – present
-
-WIP Dashboard for DryCleaning company in Puerto Vallarta.
-
-* API
-
-### TicketFan
-
-#### Nov 2022 – Dec 2022
-
-Developed for a cohort along with 7 coworkers in 5 weeks, from planning stage to MVP.
-
-Responsibilities:
-
-* Authentication/Authorization
-* CRUD Events
-* CI/CD
-* Admin Panel
-* Weekly Reunions
-
-## Education
-
-### Computer Engineering
-
-#### Jan 2019 – Jan 2023
-
-Puerto Vallarta, Mexico
-
-* Universidad de Guadalajara
-
-# Experience
-
-| Role                     | Company            | Duration              |
-| ------------------------ | ------------------ | --------------------- |
-| Software Engineer Intern | T-Mobile           | June 2022 - Present   |
-| Tutor, TA, Grader - CSSE | Seattle University | June 2021 - June 2022 |
-| Sales Associate          | The Home Depot     | July 2020 - June 2022 |
-
-### T-Mobile
-
-#### Software Engineer Intern
-
-* Digital Architecture & Cybersecurity
-* Codified architecture for scalable and automated API authorization assessment
-* Filed patent application for API authorization service
-* TypeScript, JavaScript, SQL, Postman, VS Code, GitLab
-
-### Seattle University
-
-#### Tutor, TA, Grader - CSSE
-
-* Algorithms and Java programming courses
-* Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs
-* Provided constructive feedback to 100+ students via tutoring and grading
-* Java, IntelliJ, Vim, Emacs, GitHub
-
-### The Home Depot
-
-#### Sales Associate
-
-* Front-line service and store maintainability
-* Interacted w/ customers and vendors, fulfilled online orders, restocked inventory
-* Provided recognizable customer service and consistent help to dozens of coworkers
-* Plumbing department, electric ladder, pipe threader
+<h1 align="center">Experience</h1>
+<table>
+<!--   <tr>
+    <td width="80%">
+      <b>Software Engineer</b> | July 2022 - Present<br />
+      Votegrity<br />
+      <ul>  
+        <li>Part time software development</li>
+        <li>Implementing functionality for election administration tool</li>
+        <li>Instantiated new virtual machine by upgrading existing software from scratch</li>
+        <li>React, JavaScript, Python, Azure, VS Code</li>
+      </ul>
+    </td>
+    <td><image alt="Votegrity" src="../assets/images/votegrity-branding-dark.jpg" /></td>
+  </tr> -->
+  <tr>
+    <td width="80%">
+      <b>Software Engineer Intern</b> | June 2022 - Present<br />
+      T-Mobile<br />
+      <ul>
+        <li>Digital Architecture & Cybersecurity</li>
+        <li>Codified architecture for scalable and automated API authorization assessment</li>
+        <li>Filed patent application for API authorization service</li>
+        <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
+      </ul>
+    </td>
+    <td><image alt="T-Mobile" src="../assets/images/tmo-logo.jpg"/></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>
+      <b>Tutor, TA, Grader - CSSE</b> | June 2021 - June 2022<br />
+      Seattle University<br />
+      <ul>
+        <li>Algorithms and Java programming courses</li>
+        <li>Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs</li>
+        <li>Provided constructive feedback to 100+ students via tutoring and grading</li>
+        <li>Java, IntelliJ, Vim, Emacs, GitHub</li>
+      </ul>
+    </td>
+    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Sales Associate</b> | July 2020 - June 2022<br />
+      The Home Depot<br />
+      <ul>
+        <li>Front-line service and store maintainability</li>
+        <li>Interacted w/ customers and vendors, fulfilled online orders, restocked inventory</li>
+        <li>Provided recognizable customer service and consistent help to dozens of coworkers</li>
+        <li>Plumbing department, electric ladder, pipe threader</li>
+      </ul>
+    </td>
+    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
+  </tr>
+</table>
