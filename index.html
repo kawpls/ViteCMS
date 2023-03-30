@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="corporate">
+<html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
     <meta name="description" content="Blog" />
@@ -8,6 +8,14 @@
     <title>Markdown Portfolio</title>
     <link rel="stylesheet" href="./style.css" />
     <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.7/dist/handlebars.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css"
+      integrity="sha512-vswe+cgvic/XBoF1OcM/TeJ2FW0OofqAVdCZiEYkd6dwGXthvkSFWOoGGJgS2CW70VK5dQM5Oh+7ne47s74VTg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
     <script type="module">
       import { attributes, html } from "./Posts/first.md";
       var date = new Date(attributes.date).toLocaleString();
@@ -17,16 +25,29 @@
     </script>
   </head>
   <body>
-    <div class="container max-w-4xl px-6 mx-auto mt-6" id="content">
+    <div class="w-full max-w-4xl mx-auto" id="content">
       <script id="template" type="text/x-handlebars-template">
-        <div class="pb-5 mb-5 border-b border-gray-100">
-          <h1 class="mb-4 text-5xl font-bold" id="title">{{attributes.title}}</h1>
-          <p class="text-base font-medium leading-6 text-right text-gray-500">
-            <time><span id="time">{{date}}</span> Por <span id="author">{{attributes.author}}</span></time>
-          </p>
-        </div>
-        <article id="article" class="mx-auto my-4 prose lg:prose-xl">{{{html}}}</article>
+        <header class="pt-4">
+          <div class="inline-flex items-center">
+            <img class="w-16 h-16 mr-4 rounded-full" src="https://flowbite.com/docs/images/people/profile-picture-2.jpg" alt="Jose Manuel Ugalde Borbolla" />
+            <div>
+              <p class="text-lg font-medium leading-tight">{{attributes.author}}</p>
+              <p class="text-lg font-medium leading-tight">{{date}}</p>
+            </div>
+          </div>
+          <h1 class="text-3xl font-extrabold">{{attributes.title}}</h1>
+          <div class="divider"></div>
+        </header>
+        <article class="mx-auto prose lg:prose-xl">
+          {{{html}}}
+        </article>
       </script>
     </div>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"
+      integrity="sha512-7Z9J3l1+EYfeaPKcGXu3MS/7T+w19WtKQY/n+xzmw4hZhJ9tyYmcUS+4QqAlzhicE5LAfMQSF3iFTK9bQdTxXg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
   </body>
 </html>
