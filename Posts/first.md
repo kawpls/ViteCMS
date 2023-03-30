@@ -5,68 +5,37 @@ author: José Manuel Ugalde Borbolla
 date: 2023-03-30T18:00:00.000Z
 ---
 
-<h1 align="center">Experience</h1>
+# Experience
 
-  <table class="table w-full">
-    <!-- head -->
-    <thead>
-      <tr>
-        <th>Company</th>
-        <th>Logo</th>
-      </tr>
-    </thead>
-    <tbody>
-<tr>
-    <td>
-      <th><b>Software Engineer</b> | July 2022 - Present | Votegrity</th>
-      <ul>  
-        <li>Part time software development</li>
-        <li>Implementing functionality for election administration tool</li>
-        <li>Instantiated new virtual machine by upgrading existing software from scratch</li>
-        <li>React, JavaScript, Python, Azure, VS Code</li>
-      </ul>
-    </td>
-    <td><image alt="Votegrity" src="/img/logo.png" /></td>
-  </tr>
-  <tr>
-    <td>
-      <b>Software Engineer Intern</b> | June 2022 - Present<br />
-      T-Mobile<br />
-      <ul>
-        <li>Digital Architecture & Cybersecurity</li>
-        <li>Codified architecture for scalable and automated API authorization assessment</li>
-        <li>Filed patent application for API authorization service</li>
-        <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
-      </ul>
-    </td>
-    <td><image alt="T-Mobile" src="/img/logo.png"/></td>
-  </tr>
-  </tr>
-  <tr>
-    <td>
-      <b>Tutor, TA, Grader - CSSE</b> | June 2021 - June 2022<br />
-      Seattle University<br />
-      <ul>
-        <li>Algorithms and Java programming courses</li>
-        <li>Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs</li>
-        <li>Provided constructive feedback to 100+ students via tutoring and grading</li>
-        <li>Java, IntelliJ, Vim, Emacs, GitHub</li>
-      </ul>
-    </td>
-    <td><image alt="SU" src="/img/logo.png" /></td>
-  </tr>
-  <tr>
-    <td>
-      <b>Sales Associate</b> | July 2020 - June 2022<br />
-      The Home Depot<br />
-      <ul>
-        <li>Front-line service and store maintainability</li>
-        <li>Interacted w/ customers and vendors, fulfilled online orders, restocked inventory</li>
-        <li>Provided recognizable customer service and consistent help to dozens of coworkers</li>
-        <li>Plumbing department, electric ladder, pipe threader</li>
-      </ul>
-    </td>
-    <td><image alt="THD" src="/img/logo.png"/></td>
-  </tr>
-    </tbody>
-  </table>
+| Role                     | Company            | Duration              |
+| ------------------------ | ------------------ | --------------------- |
+| Software Engineer Intern | T-Mobile           | June 2022 - Present   |
+| Tutor, TA, Grader - CSSE | Seattle University | June 2021 - June 2022 |
+| Sales Associate          | The Home Depot     | July 2020 - June 2022 |
+
+### T-Mobile
+
+#### Software Engineer Intern
+
+- Digital Architecture & Cybersecurity
+- Codified architecture for scalable and automated API authorization assessment
+- Filed patent application for API authorization service
+- TypeScript, JavaScript, SQL, Postman, VS Code, GitLab
+
+### Seattle University
+
+#### Tutor, TA, Grader - CSSE
+
+- Algorithms and Java programming courses
+- Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs
+- Provided constructive feedback to 100+ students via tutoring and grading
+- Java, IntelliJ, Vim, Emacs, GitHub
+
+### The Home Depot
+
+#### Sales Associate
+
+- Front-line service and store maintainability
+- Interacted w/ customers and vendors, fulfilled online orders, restocked inventory
+- Provided recognizable customer service and consistent help to dozens of coworkers
+- Plumbing department, electric ladder, pipe threader
