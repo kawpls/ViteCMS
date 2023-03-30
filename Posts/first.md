@@ -6,11 +6,19 @@ date: 2023-03-30T18:00:00.000Z
 ---
 
 <h1 align="center">Experience</h1>
-<table class="table w-full">
+
+  <table class="table w-full">
+    <!-- head -->
+    <thead>
+      <tr>
+        <th>Company</th>
+        <th>Logo</th>
+      </tr>
+    </thead>
+    <tbody>
 <tr>
-    <td width="80%">
-      <b>Software Engineer</b> | July 2022 - Present<br />
-      Votegrity<br />
+    <td>
+      <th><b>Software Engineer</b> | July 2022 - Present | Votegrity</th>
       <ul>  
         <li>Part time software development</li>
         <li>Implementing functionality for election administration tool</li>
@@ -21,7 +29,7 @@ date: 2023-03-30T18:00:00.000Z
     <td><image alt="Votegrity" src="/img/logo.png" /></td>
   </tr>
   <tr>
-    <td width="80%">
+    <td>
       <b>Software Engineer Intern</b> | June 2022 - Present<br />
       T-Mobile<br />
       <ul>
@@ -60,4 +68,5 @@ date: 2023-03-30T18:00:00.000Z
     </td>
     <td><image alt="THD" src="/img/logo.png"/></td>
   </tr>
-</table>
+    </tbody>
+  </table>
