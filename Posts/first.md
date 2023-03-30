@@ -5,8 +5,8 @@ author: José Manuel Ugalde Borbolla
 date: 2023-03-30T18:00:00.000Z
 ---
 <h1 align="center">Experience</h1>
-<table>
-<!--   <tr>
+<table class="table w-full">
+  <tr>
     <td width="80%">
       <b>Software Engineer</b> | July 2022 - Present<br />
       Votegrity<br />
@@ -17,8 +17,8 @@ date: 2023-03-30T18:00:00.000Z
         <li>React, JavaScript, Python, Azure, VS Code</li>
       </ul>
     </td>
-    <td><image alt="Votegrity" src="../assets/images/votegrity-branding-dark.jpg" /></td>
-  </tr> -->
+    <td><image alt="Votegrity" src="/assets/logo.png" /></td>
+  </tr> 
   <tr>
     <td width="80%">
       <b>Software Engineer Intern</b> | June 2022 - Present<br />
@@ -30,7 +30,7 @@ date: 2023-03-30T18:00:00.000Z
         <li>TypeScript, JavaScript, SQL, Postman, VS Code, GitLab</li>
       </ul>
     </td>
-    <td><image alt="T-Mobile" src="../assets/images/tmo-logo.jpg"/></td>
+    <td><image alt="T-Mobile" src="/assets/logo.png"/></td>
   </tr>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ date: 2023-03-30T18:00:00.000Z
         <li>Java, IntelliJ, Vim, Emacs, GitHub</li>
       </ul>
     </td>
-    <td><image alt="SU" src="../assets/images/su-logo.jpg" /></td>
+    <td><image alt="SU" src="/assets/logo.png" /></td>
   </tr>
   <tr>
     <td>
@@ -57,6 +57,8 @@ date: 2023-03-30T18:00:00.000Z
         <li>Plumbing department, electric ladder, pipe threader</li>
       </ul>
     </td>
-    <td><image alt="THD" src="../assets/images/thd-logo.png" /></td>
+    <td><image alt="THD" src="/assets/logo.png" /></td>
   </tr>
 </table>
+
+![](/assets/logo.png)
