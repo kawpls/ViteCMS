@@ -4,103 +4,28 @@ description: test 1
 author: José Manuel Ugalde Borbolla
 date: 2023-03-30T18:00:00.000Z
 ---
-[![GitHub followers](https://img.shields.io/github/followers/johndoe.svg?style=social&label=Follow)](https://github.com/johndoe)
-[![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)](https://twitter.com/johndoe)
+# 💫 About Me:
 
-# Jose Manuel Ugalde Borbolla
+As a full-stack developer with experience in .NET technologies, I am passionate about creating dynamic, innovative solutions that meet the needs of businesses and individuals alike. Whether developing custom graphic interfaces, managing projects from start to finish, or collaborating with a team, I thrive on the challenge of bringing complex ideas to life.
 
-Software Developer
+With a solid foundation in relational and NoSQL databases, web APIs, and Azure technologies, I have a proven track record of delivering high-quality solutions on time and within budget. My experience with GraphQL, RestAPI, Tailwind, Bootstrap, and Vite allows me to create intuitive, user-friendly front-end designs that make a real impact.
 
+If you're looking for a developer with a passion for delivering outstanding results, look no further than me. Let's work together to bring your vision to life!
 
-- Email: jmugaldeb@gmail.com
-- Phone: (322) 104-6562
-- Location: Puerto Vallarta, Jalisco
-- Portfolio: [Kawpls](https://jmub.github.io/)
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelub93) 
 
+# 💻 Tech Stack:
 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ﻿![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Skills
+# 📊 GitHub Stats:
 
-
-
-| Category              | Skills                                                                               |
-| --------------------- | ------------------------------------------------------------------------------------ |
-| Databases             | MS-SQL, PostgreSQL, MySQL, CockroachDB, CosmosDB                                      |
-| ASP.NET               | Razor Pages, Web API, Blazor, EF Core                                                |
-| Frontend              | GraphQL, RestAPI, Tailwind, Bootstrap, Vite                                          |
-| Azure                 | Azure Functions, Azure AD, Blob Storage, Azure Static Websites                        |
-| Source Control CI/CD  | GitHub, Netlify, RailwayAPP, Vercel                                                  |
-| Programming Languages | C#, Javascript, CSS, HTML, Python 
-
-## Skills
-
-
-
-| Databases          | ASP.NET                 | Frontend             | Azure                        | Source Control CI/CD |
-| ------------------ | ----------------------- | -------------------- | ---------------------------- | ------------------- |
-| MS-SQL             | Razor Pages            | GraphQL             | Azure Functions             | GitHub              |
-| PostgreSQL         | Web API                 | RestAPI             | Azure AD                    | Netlify             |
-| MySQL              | Blazor                  | Tailwind            | Blob Storage                | RailwayAPP          |
-| CockroachDB        | EF Core                 | Bootstrap           | Azure Static Websites        | Vercel              |
-| CosmosDB           |                         |                      |                              |                     |
-
-| Programming Languages |
-| --------------------- |
-| C#                    |
-| Javascript            |
-| CSS                   |
-| HTML                  |
-| Python                |
-
-
-## Professional Experience
-
-
-### Full-Stack Developer
-**Blunify** | Feb 2022 - Present | Puerto Vallarta, Mexico
-
-
-- Work on daily Scrum meetings
-- Develop Blazor applications
-- Build Web APIs
-- Work with Azure IoT Edge Devices
-
-
-## Projects
-
-
-### DryCleanPV - Dashboard
-Apr 2022 - Present
-
-
-- Build an API for a dashboard for a Dry Cleaning company in Puerto Vallarta
-
-
-### TicketFan
-Nov 2022 - Dec 2022
-
-
-- Collaborated on the development of TicketFan, an event management platform
-- Worked on Authentication/Authorization
-- Implemented CRUD operations for events
-- Built the admin panel
-- Participated in weekly meetings
-
-## Education
-
-
-### Computer Engineering
-
-**Universidad de Guadalajara** | Jan 2019 - Jan 2023 | Puerto Vallarta, Mexico
-
-
-## Languages
-
-
-- English
-- Spanish
+![](https://github-readme-stats.vercel.app/api?username=kawpls&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kawpls&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawpls&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 - - -
 
-###### Check out some of my other work on my [github](https://github.com/kawpls).
+[![](https://visitcount.itsvg.in/api?id=kawpls&icon=2&color=1)](https://visitcount.itsvg.in)
