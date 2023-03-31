@@ -4,38 +4,60 @@ description: test 1
 author: José Manuel Ugalde Borbolla
 date: 2023-03-30T18:00:00.000Z
 ---
+[![GitHub followers](https://img.shields.io/github/followers/johndoe.svg?style=social&label=Follow)](https://github.com/johndoe)
+[![Twitter Follow](https://img.shields.io/twitter/follow/johndoe?style=social)](https://twitter.com/johndoe)
 
-# Experience
+## About Me
 
-| Role                     | Company            | Duration              |
-| ------------------------ | ------------------ | --------------------- |
-| Software Engineer Intern | T-Mobile           | June 2022 - Present   |
-| Tutor, TA, Grader - CSSE | Seattle University | June 2021 - June 2022 |
-| Sales Associate          | The Home Depot     | July 2020 - June 2022 |
+I am a **web developer** with over 5 years of experience in creating websites and web applications. I am passionate about creating clean, modern, and user-friendly designs that provide a great user experience.
 
-### T-Mobile
+## Skills
 
-#### Software Engineer Intern
+| Skill      | Level        |
+| ---------- | ------------ |
+| HTML       | Advanced     |
+| CSS        | Advanced     |
+| JavaScript | Intermediate |
+| React      | Intermediate |
+| Node.js    | Intermediate |
+| Git        | Advanced     |
 
-- Digital Architecture & Cybersecurity
-- Codified architecture for scalable and automated API authorization assessment
-- Filed patent application for API authorization service
-- TypeScript, JavaScript, SQL, Postman, VS Code, GitLab
+## Projects
 
-### Seattle University
+### Project 1
 
-#### Tutor, TA, Grader - CSSE
+A web application that allows users to create and share their own recipes.
 
-- Algorithms and Java programming courses
-- Tutored and graded 100+ students, formulated grading rubrics alongside several other TAs
-- Provided constructive feedback to 100+ students via tutoring and grading
-- Java, IntelliJ, Vim, Emacs, GitHub
+### Project 2
 
-### The Home Depot
+A portfolio website template using Markdown and Tailwind CSS.
 
-#### Sales Associate
+## Experience
 
-- Front-line service and store maintainability
-- Interacted w/ customers and vendors, fulfilled online orders, restocked inventory
-- Provided recognizable customer service and consistent help to dozens of coworkers
-- Plumbing department, electric ladder, pipe threader
+### Web Developer
+
+**XYZ Company** | 2020 - Present
+
+* Worked on a team to develop and maintain company websites and web applications
+* Created responsive designs that were optimized for various devices
+
+### Front-end Developer
+
+**ABC Agency** | 2018 - 2020
+
+* Worked on a team to develop websites for clients
+* Created modern and visually appealing designs
+
+## Education
+
+* Bachelor's degree in Computer Science from **XYZ University**
+
+## Contact Me
+
+* Email: john.doe@email.com
+* GitHub: [johndoe](https://github.com/johndoe)
+* Twitter: [@johndoe](https://twitter.com/johndoe)
+
+- - -
+
+###### Check out some of my other work on my [portfolio website](https://johndoe.com).
