@@ -4,99 +4,193 @@ description: test 1
 author: José Manuel Ugalde Borbolla
 date: 2023-03-30T18:00:00.000Z
 ---
-# 💫 About Me:
+# Dillinger
+## _The Last Markdown Editor, Ever_
 
-As a full-stack developer with experience in .NET technologies, I am passionate about creating dynamic, innovative solutions that meet the needs of businesses and individuals alike. Whether developing custom graphic interfaces, managing projects from start to finish, or collaborating with a team, I thrive on the challenge of bringing complex ideas to life.
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid) ![Python Badge](https://img.shields.io/badge/Python-Intermediate-yellow) ![C# Badge](https://img.shields.io/badge/C%23-Advanced-blue) ![Javascript Badge](https://img.shields.io/badge/Javascript-Advanced-blue) ![CSS Badge](https://img.shields.io/badge/CSS-Advanced-blue) ![HTML Badge](https://img.shields.io/badge/HTML-Advanced-blue)
 
-With a solid foundation in relational and NoSQL databases, web APIs, and Azure technologies, I have a proven track record of delivering high-quality solutions on time and within budget. My experience with GraphQL, RestAPI, Tailwind, Bootstrap, and Vite allows me to create intuitive, user-friendly front-end designs that make a real impact.
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
 
-If you're looking for a developer with a passion for delivering outstanding results, look no further than me. Let's work together to bring your vision to life!
+- Type some Markdown on the left
+- See HTML in the right
+- ✨Magic ✨
 
-## 🌐 Socials:
+## Features
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manuelub93) 
+- Import a HTML file and watch it magically convert to Markdown
+- Drag and drop images (requires your Dropbox account be linked)
+- Import and save files from GitHub, Dropbox, Google Drive and One Drive
+- Drag and drop markdown and HTML files into Dillinger
+- Export documents as Markdown, HTML and PDF
 
-# 💻 Tech Stack:
+Markdown is a lightweight markup language based on the formatting conventions
+that people naturally use in email.
+As [John Gruber] writes on the [Markdown site][df1]
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
 
-## Skills
+This text you see here is *actually- written in Markdown! To get a feel
+for Markdown's syntax, type some text into the left window and
+watch the results in the right.
 
-### Databases
+## Tech
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ﻿
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS-SQL Badge](https://img.shields.io/badge/MS--SQL-Advanced-blue) 
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Advanced-blue) 
-![MySQL Badge](https://img.shields.io/badge/MySQL-Advanced-blue) 
-![CockroachDB Badge](https://img.shields.io/badge/CockroachDB-Intermediate-yellow) 
-![CosmosDB Badge](https://img.shields.io/badge/CosmosDB-Beginner-red)
+Dillinger uses a number of open source projects to work properly:
 
-### ASP.NET
+- [AngularJS] - HTML enhanced for web apps!
+- [Ace Editor] - awesome web-based text editor
+- [markdown-it] - Markdown parser done right. Fast and easy to extend.
+- [Twitter Bootstrap] - great UI boilerplate for modern web apps
+- [node.js] - evented I/O for the backend
+- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Gulp] - the streaming build system
+- [Breakdance](https://breakdance.github.io/breakdance/) - HTML
+to Markdown converter
+- [jQuery] - duh
 
-![Razor Pages Badge](https://img.shields.io/badge/Razor%20Pages-Advanced-blue)
-![Web API Badge](https://img.shields.io/badge/Web%20API-Advanced-blue)
-![Blazor Badge](https://img.shields.io/badge/Blazor-Advanced-blue)
-![EF Core Badge](https://img.shields.io/badge/EF%20Core-Advanced-blue)
+And of course Dillinger itself is open source with a [public repository][dill]
+ on GitHub.
 
-### Frontend
+## Installation
 
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-Intermediate-yellow)
-![RestAPI Badge](https://img.shields.io/badge/RestAPI-Intermediate-yellow)
-![Tailwind Badge](https://img.shields.io/badge/Tailwind-Intermediate-yellow)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-Intermediate-yellow)
-![Vite Badge](https://img.shields.io/badge/Vite-Intermediate-yellow)
+Dillinger requires [Node.js](https://nodejs.org/) v10+ to run.
 
-### Azure
+Install the dependencies and devDependencies and start the server.
 
-![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-Advanced-blue)
-![Azure AD Badge](https://img.shields.io/badge/Azure%20AD-Advanced-blue)
-![Blob Storage Badge](https://img.shields.io/badge/Blob%20Storage-Intermediate-yellow)
-![Azure Static Websites Badge](https://img.shields.io/badge/Azure%20Static%20Websites-Intermediate-yellow)
+```sh
+cd dillinger
+npm i
+node app
+```
 
-### Source Control CI/CD
+For production environments...
 
-![GitHub Badge](https://img.shields.io/badge/GitHub-Advanced-blue)
-![Netlify Badge](https://img.shields.io/badge/Netlify-Intermediate-yellow)
-![RailwayAPP Badge](https://img.shields.io/badge/RailwayAPP-Intermediate-yellow)
-![Vercel Badge](https://img.shields.io/badge/Vercel-Intermediate-yellow)
+```sh
+npm install --production
+NODE_ENV=production node app
+```
 
-### Programming Languages
+## Plugins
 
-![C# Badge](https://img.shields.io/badge/C%23-Advanced-blue)
-![Javascript Badge](https://img.shields.io/badge/Javascript-Advanced-blue)
-![CSS Badge](https://img.shields.io/badge/CSS-Advanced-blue)
-![HTML Badge](https://img.shields.io/badge/HTML-Advanced-blue)
-![Python Badge](https://img.shields.io/badge/Python-Intermediate-yellow)
+Dillinger is currently extended with the following plugins.
+Instructions on how to use them in your own application are linked below.
 
-# 📊 GitHub Stats:
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| GitHub | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
-![](https://github-readme-stats.vercel.app/api?username=kawpls&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kawpls&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kawpls&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Development
 
-| Relational Database | NoSQL Database | ASP.NET | Frontend | Azure | Source Control CI/CD | Programming Languages |
-| :-----------------: | :------------: | :-----: | :------: | :---: | :------------------: | :-------------------: |
-|<div class="flex justify-center"><img src="https://img.shields.io/badge/MS--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS-SQL Badge"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/></div>|<div class="flex justify-center"><img src="https://img.shields.io/badge/CosmosDB-4D4D4D?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="CosmosDB Badge"/></div>|<div class="flex justify-center"><img src="https://img.shields.io/badge/Razor_Pages-6C757D?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="Razor Pages Badge"/> <img src="https://img.shields.io/badge/Web_API-6C757D?style=for-the-badge&logo=aspdotnet&logoColor=white" alt="Web API Badge"/> <img src="https://img.shields.io/badge/Blazor-6C757D?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor Badge"/> <img src="https://img.shields.io/badge/EF_Core-6C757D?style=for-the-badge&logo=.net&logoColor=white" alt="EF Core Badge"/></div>|<div class="flex justify-center"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL Badge"/> <img src="https://img.shields.io/badge/Rest_API-005571?style=for-the-badge&logo=json&logoColor=white" alt="RestAPI Badge"/> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/></div>|<div class="flex justify-center"><img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white" alt="Azure Functions Badge"/> <img src="https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AD Badge"/></div>
+Want to contribute? Great!
 
+Dillinger uses Gulp + Webpack for fast developing.
+Make a change in your file and instantaneously see your updates!
 
-- - -
+Open your favorite Terminal and run these commands.
 
-[![](https://visitcount.itsvg.in/api?id=kawpls&icon=2&color=1)](https://visitcount.itsvg.in)
+First Tab:
+
+```sh
+node app
+```
+
+Second Tab:
+
+```sh
+gulp watch
+```
+
+(optional) Third:
+
+```sh
+karma test
+```
+
+#### Building for source
+
+For production release:
+
+```sh
+gulp build --prod
+```
+
+Generating pre-built zip archives for distribution:
+
+```sh
+gulp build dist --prod
+```
+
+## Docker
+
+Dillinger is very easy to install and deploy in a Docker container.
+
+By default, the Docker will expose port 8080, so change this within the
+Dockerfile if necessary. When ready, simply use the Dockerfile to
+build the image.
+
+```sh
+cd dillinger
+docker build -t <youruser>/dillinger:${package.json.version} .
+```
+
+This will create the dillinger image and pull in the necessary dependencies.
+Be sure to swap out `${package.json.version}` with the actual
+version of Dillinger.
+
+Once done, run the Docker image and map the port to whatever you wish on
+your host. In this example, we simply map port 8000 of the host to
+port 8080 of the Docker (or whatever port was exposed in the Dockerfile):
+
+```sh
+docker run -d -p 8000:8080 --restart=always --cap-add=SYS_ADMIN --name=dillinger <youruser>/dillinger:${package.json.version}
+```
+
+> Note: `--capt-add=SYS-ADMIN` is required for PDF rendering.
+
+Verify the deployment by navigating to your server address in
+your preferred browser.
+
+```sh
+127.0.0.1:8000
+```
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+   [dill]: <https://github.com/joemccann/dillinger>
+   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
+   [john gruber]: <http://daringfireball.net>
+   [df1]: <http://daringfireball.net/projects/markdown/>
+   [markdown-it]: <https://github.com/markdown-it/markdown-it>
+   [Ace Editor]: <http://ace.ajax.org>
+   [node.js]: <http://nodejs.org>
+   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
+   [jQuery]: <http://jquery.com>
+   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
+   [express]: <http://expressjs.com>
+   [AngularJS]: <http://angularjs.org>
+   [Gulp]: <http://gulpjs.com>
+
+   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
