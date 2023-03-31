@@ -24,15 +24,9 @@ If you're looking for a developer with a passion for delivering outstanding resu
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ﻿![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MS-SQL Badge](https://img.shields.io/badge/MS--SQL-Advanced-blue)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
-![MySQL Badge](https://img.shields.io/badge/MySQL-Advanced-blue)
-![CockroachDB Badge](https://img.shields.io/badge/CockroachDB-Intermediate-yellow)
-![CosmosDB Badge](https://img.shields.io/badge/CosmosDB-Beginner-red)
+![MS-SQL Badge](https://img.shields.io/badge/MS--SQL-Advanced-blue) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Advanced-blue) ![MySQL Badge](https://img.shields.io/badge/MySQL-Advanced-blue) ![CockroachDB Badge](https://img.shields.io/badge/CockroachDB-Intermediate-yellow) ![CosmosDB Badge](https://img.shields.io/badge/CosmosDB-Beginner-red)
 
 ### ASP.NET
 
