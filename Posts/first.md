@@ -33,6 +33,27 @@ Software Developer
 | Source Control CI/CD  | GitHub, Netlify, RailwayAPP, Vercel                                                  |
 | Programming Languages | C#, Javascript, CSS, HTML, Python 
 
+## Skills
+
+
+
+| Databases          | ASP.NET                 | Frontend             | Azure                        | Source Control CI/CD |
+| ------------------ | ----------------------- | -------------------- | ---------------------------- | ------------------- |
+| MS-SQL             | Razor Pages            | GraphQL             | Azure Functions             | GitHub              |
+| PostgreSQL         | Web API                 | RestAPI             | Azure AD                    | Netlify             |
+| MySQL              | Blazor                  | Tailwind            | Blob Storage                | RailwayAPP          |
+| CockroachDB        | EF Core                 | Bootstrap           | Azure Static Websites        | Vercel              |
+| CosmosDB           |                         |                      |                              |                     |
+
+| Programming Languages |
+| --------------------- |
+| C#                    |
+| Javascript            |
+| CSS                   |
+| HTML                  |
+| Python                |
+
+
 ## Professional Experience
 
 
