@@ -18,53 +18,20 @@ Software Developer
 - Portfolio: [Kawpls](https://jmub.github.io/)
 
 
+
+
 ## Skills
 
 
-### Databases
-- MS-SQL
-- PostgreSQL
-- MySQL
-- CockroachDB
-- CosmosDB
 
-
-### ASP.NET
-- Razor Pages
-- Web API
-- Blazor
-- EF Core
-
-
-### Frontend
-- GraphQL
-- RestAPI
-- Tailwind
-- Bootstrap
-- Vite
-
-
-### Azure
-- Azure Functions
-- Azure AD
-- Blob Storage
-- Azure Static Websites
-
-
-### Source Control CI/CD
-- GitHub
-- Netlify
-- RailwayAPP
-- Vercel
-
-
-### Programming Languages
-- C#
-- Javascript
-- CSS
-- HTML
-- Python
-
+| Category              | Skills                                                                               |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| Databases             | MS-SQL, PostgreSQL, MySQL, CockroachDB, CosmosDB                                      |
+| ASP.NET               | Razor Pages, Web API, Blazor, EF Core                                                |
+| Frontend              | GraphQL, RestAPI, Tailwind, Bootstrap, Vite                                          |
+| Azure                 | Azure Functions, Azure AD, Blob Storage, Azure Static Websites                        |
+| Source Control CI/CD  | GitHub, Netlify, RailwayAPP, Vercel                                                  |
+| Programming Languages | C#, Javascript, CSS, HTML, Python 
 
 ## Professional Experience
 
