@@ -18,7 +18,58 @@ If you're looking for a developer with a passion for delivering outstanding resu
 
 # 💻 Tech Stack:
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ﻿![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
+## Skills
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MS-SQL Badge](https://img.shields.io/badge/MS--SQL-Advanced-blue)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
+![MySQL Badge](https://img.shields.io/badge/MySQL-Advanced-blue)
+![CockroachDB Badge](https://img.shields.io/badge/CockroachDB-Intermediate-yellow)
+![CosmosDB Badge](https://img.shields.io/badge/CosmosDB-Beginner-red)
+
+### ASP.NET
+
+![Razor Pages Badge](https://img.shields.io/badge/Razor%20Pages-Advanced-blue)
+![Web API Badge](https://img.shields.io/badge/Web%20API-Advanced-blue)
+![Blazor Badge](https://img.shields.io/badge/Blazor-Advanced-blue)
+![EF Core Badge](https://img.shields.io/badge/EF%20Core-Advanced-blue)
+
+### Frontend
+
+![GraphQL Badge](https://img.shields.io/badge/GraphQL-Intermediate-yellow)
+![RestAPI Badge](https://img.shields.io/badge/RestAPI-Intermediate-yellow)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind-Intermediate-yellow)
+![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-Intermediate-yellow)
+![Vite Badge](https://img.shields.io/badge/Vite-Intermediate-yellow)
+
+### Azure
+
+![Azure Functions Badge](https://img.shields.io/badge/Azure%20Functions-Advanced-blue)
+![Azure AD Badge](https://img.shields.io/badge/Azure%20AD-Advanced-blue)
+![Blob Storage Badge](https://img.shields.io/badge/Blob%20Storage-Intermediate-yellow)
+![Azure Static Websites Badge](https://img.shields.io/badge/Azure%20Static%20Websites-Intermediate-yellow)
+
+### Source Control CI/CD
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-Advanced-blue)
+![Netlify Badge](https://img.shields.io/badge/Netlify-Intermediate-yellow)
+![RailwayAPP Badge](https://img.shields.io/badge/RailwayAPP-Intermediate-yellow)
+![Vercel Badge](https://img.shields.io/badge/Vercel-Intermediate-yellow)
+
+### Programming Languages
+
+![C# Badge](https://img.shields.io/badge/C%23-Advanced-blue)
+![Javascript Badge](https://img.shields.io/badge/Javascript-Advanced-blue)
+![CSS Badge](https://img.shields.io/badge/CSS-Advanced-blue)
+![HTML Badge](https://img.shields.io/badge/HTML-Advanced-blue)
+![Python Badge](https://img.shields.io/badge/Python-Intermediate-yellow)
 
 # 📊 GitHub Stats:
 
